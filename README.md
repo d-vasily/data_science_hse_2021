@@ -1,1 +1,1 @@
-# data_science_hse_2021
+# hse_deep_learning
