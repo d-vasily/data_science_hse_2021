@@ -1,0 +1,10 @@
+На 1 лекции было
+
+1. Простейшие структуры - стек, очередь (про дек тоже можно почитать). https://brestprog.by/topics/datastructures/
+2. Правильная скобочная последовательность. Тут мне не удалось найти хороший текстовый вариант, поэтому видео. https://www.youtube.com/watch?v=OTudUhiLNvk
+3. Бинарный и тернарный поиск. https://brestprog.by/topics/binsearch/ (обратите внимание, я рассказывал вариант, когда правая граница не входит в рассмотрение. Тут автор статьи описывает вариант, когда обе границы входят. Работают оба подхода). https://e-maxx.ru/algo/ternary_search
+4. Алгоритм Евклида https://brestprog.by/topics/gcd/ 
+5. Быстрое возведение в степень https://e-maxx.ru/algo/binary_pow
+6. Решето Эратосфена https://brestprog.by/topics/primesieve/
+7. Число сочетаний https://informatics.msk.ru/mod/book/view.php?id=266
+8. Проверка числа на простоту за корень https://brestprog.by/topics/factorization/
